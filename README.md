@@ -15,3 +15,9 @@
 ## [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-c67fb4b1-21da-4117-8814-770b7e9e80a5/)
 
 ![The Complete SQL Bootcamp: Go from Zero to Hero](https://udemy-certificate.s3.amazonaws.com/image/UC-c67fb4b1-21da-4117-8814-770b7e9e80a5.jpg?v=1711378660000)
+
+<br/>
+
+## [CSS - The Complete Guide 2025 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/certificate/UC-422b0e73-1aca-4388-8b22-9388cc25aa55/)
+
+![CSS - The Complete Guide 2025 (incl. Flexbox, Grid & Sass)](https://udemy-certificate.s3.amazonaws.com/image/UC-422b0e73-1aca-4388-8b22-9388cc25aa55.jpg?v=1751037842000)
